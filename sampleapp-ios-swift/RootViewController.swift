@@ -16,7 +16,7 @@ class RootViewController: UIPageViewController, UIPageViewControllerDelegate, UI
             "analyticsViewController",
             "crashViewController",
             "testViewController",
-            "distributeViewController",
+            "distributeViewController"
             "pushViewController",
         ]
 
